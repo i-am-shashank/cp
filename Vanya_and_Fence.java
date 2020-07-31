@@ -1,5 +1,6 @@
 
 // problem here-> https://codeforces.com/contest/677/problem/A
+
 import java.util.Scanner;
 
 public class Vanya_and_Fence {

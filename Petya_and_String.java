@@ -1,5 +1,6 @@
 
 //problem here-> https://codeforces.com/contest/112/problem/A
+
 import java.util.Scanner;
 
 class Petya_and_String{
